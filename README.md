@@ -6,6 +6,6 @@ University of Michigan
 
 ###Group Work
 
-####Twitter Emoji Analysis 
+####[Twitter Emoji Analysis] (http://bcko.github.io/twitter-emoji/)
 
 # brandmit.github.io
